@@ -20,3 +20,6 @@ resource "aws_vpc" "vpc" {
 fmfmmdd
 ssferferere
 wrgfergerg
+
+
+you are a genius in devopsS
